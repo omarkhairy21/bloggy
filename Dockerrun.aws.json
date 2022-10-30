@@ -1,0 +1,12 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "391161446417.dkr.ecr.us-east-1.amazonaws.com/bloggy:v1.0",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": "1337"
+    }
+  ]
+}
